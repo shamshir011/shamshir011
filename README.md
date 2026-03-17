@@ -9,7 +9,7 @@
 - 💬 Ask me about Android development, Kotlin, XML, Firebase integration
 - 📫 How to reach me:  
   Email: md.shamshir0001@gmail.com  
-  LinkedIn: www.linkedin.com/in/shamshir93  
+  [LinkedIn](https://www.linkedin.com/in/shamshir93)  
   GitHub: https://github.com/shamshir011  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building real-world apps and improving my coding skills
