@@ -1,4 +1,4 @@
-If i delete shamshir011 repo then i create same repo then i paste this <p align="center">
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi+There;I'm+Shamshir" />
 </p>
 
@@ -32,4 +32,4 @@ If i delete shamshir011 repo then i create same repo then i paste this <p align=
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshir011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shamshir011&theme=radical&no-frame=true&row=1&column=6). It will show again forked or not
+![](https://github-profile-trophy.vercel.app/?username=shamshir011&theme=radical&no-frame=true&row=1&column=6).
