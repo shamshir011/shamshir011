@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Android apps and open-source mobile projects
 - 🤔 I’m looking for help with advanced Android architecture, performance optimization
 - 💬 Ask me about Android development, Kotlin, XML, Firebase integration
-- - 📫 How to reach me:  
+- 📫 How to reach me:  
   Email: [md.shamshir0001@gmail.com](mailto:md.shamshir0001@gmail.com)  
   GitHub: [shamshir011](https://github.com/shamshir011)  
   LinkedIn: [shamshir93](https://www.linkedin.com/in/shamshir93)
