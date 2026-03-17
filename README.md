@@ -7,10 +7,10 @@
 - 👯 I’m looking to collaborate on Android apps and open-source mobile projects
 - 🤔 I’m looking for help with advanced Android architecture, performance optimization
 - 💬 Ask me about Android development, Kotlin, XML, Firebase integration
-- 📫 How to reach me:  
-  Email: md.shamshir0001@gmail.com  
-  [LinkedIn](https://www.linkedin.com/in/shamshir93)  
-  GitHub: https://github.com/shamshir011  
+- - 📫 How to reach me:  
+  Email: [md.shamshir0001@gmail.com](mailto:md.shamshir0001@gmail.com)  
+  GitHub: [shamshir011](https://github.com/shamshir011)  
+  LinkedIn: [shamshir93](https://www.linkedin.com/in/shamshir93)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building real-world apps and improving my coding skills
 
