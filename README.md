@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on a Food Delivery Android App(Kotlin and Firebase)
-- 🌱 I’m currently learning Android Development, Jetpack Compose, and Data Structures & Algorithms
+- 🌱 I’m currently learning Android Development, Jetpack Compose, and DSA
 - 👯 I’m looking to collaborate on Android apps and open-source mobile projects
 - 🤔 I’m looking for help with advanced Android architecture, performance optimization
 - 💬 Ask me about Android development, Kotlin, XML, Firebase integration
