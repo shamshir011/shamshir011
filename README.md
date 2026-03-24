@@ -24,6 +24,14 @@
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-e44d26?style=for-the-badge&logo=xml&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+# 📊 Streak Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=shamshir011&theme=dark&hide_border=false)
+
+![](https://streak-stats.demolab.com?user=shamshir011&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshir011&theme=dark&hide_border=false&layout=compact)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shamshir011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
