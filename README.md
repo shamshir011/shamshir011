@@ -31,7 +31,7 @@
 
 ![](https://streak-stats.demolab.com?user=shamshir011&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshir011&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshir011&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shamshir011&theme=radical&no-frame=true&row=1&column=6).
