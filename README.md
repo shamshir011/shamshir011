@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi+There;I'm+Shamshir" />
 </p>
 
-- 🔭 I’m currently working on a Food Delivery Android App(Kotlin and Firebase)
+- 🔭 I’m currently working on a Food Delivery Android App (Kotlin and Firebase)
 - 🌱 I’m currently learning Android Development, Jetpack Compose, and DSA
 - 👯 I’m looking to collaborate on Android apps and open-source mobile projects
 - 🤔 I’m looking for help with advanced Android architecture, performance optimization
